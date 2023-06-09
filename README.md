@@ -1,6 +1,6 @@
 # Hei og Velkommen 🖖
 
-I am a recent Lomonosov MSU graduate with a degree in Applied Mathematics and Computer Science.
+I am a recent Lomonosov MSU graduate with a degree in Applied Mathematics and Computer Science
 
 ✉️ Available at:
 
