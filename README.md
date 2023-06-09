@@ -8,7 +8,7 @@ I am a recent MSU graduate with a degree in Applied Mathematics and Computer Sci
   <a href="https://t.me/niwkvi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:nastypikul1805@gmail.com" target="_blank">
+  <a href="mailto:niwkvi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 <p align="center">
