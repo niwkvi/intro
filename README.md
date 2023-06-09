@@ -1,8 +1,8 @@
-# Velkommen 📌
+# Hei og Velkommen 🖖
 
 I am a recent MSU graduate with a degree in Applied Mathematics and Computer Science.
 
-Available at:
+✉️ Available at:
 
 <p align="center">
   <a href="https://t.me/niwkvi" target="_blank">
@@ -13,7 +13,7 @@ Available at:
   </a>
 <p align="center">
 
-Familiar with:
+📌 Familiar with:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white"/>
