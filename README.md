@@ -2,9 +2,7 @@
 
 I am a recent Lomonosov MSU graduate with a degree in Applied Mathematics and Computer Science.
 
-<p align="center">
-  ✉️ Available at:
-<p align="center">
+✉️ Available at:
 
 <p align="center">
   <a href="https://t.me/niwkvi" target="_blank">
@@ -18,9 +16,7 @@ I am a recent Lomonosov MSU graduate with a degree in Applied Mathematics and Co
   </a>
 <p align="center">
 
-<p align="center">
-  📌 Familiar with:
-<p align="center">
+📌 Familiar with:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white"/>
