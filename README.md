@@ -2,9 +2,7 @@
 
 I am a recent Lomonosov MSU graduate with a degree in Applied Mathematics and Computer Science
 
-📋 [CV RU](https://github.com/niwkvi/cv/blob/main/CV%20-%20Natalya%20Inichkina%20-%20RU.pdf)
-
-📋 [CV EN](https://github.com/niwkvi/cv/blob/main/CV%20-%20Natalya%20Inichkina%20-%20EN.pdf)
+📋 [CV RU](https://github.com/niwkvi/cv/blob/main/CV%20-%20Natalya%20Inichkina%20-%20RU.pdf) / [CV EN](https://github.com/niwkvi/cv/blob/main/CV%20-%20Natalya%20Inichkina%20-%20EN.pdf)
 
 ✉️ Available at:
 
