@@ -1,6 +1,6 @@
 # Hei og Velkommen 🖖
 
-I am a recent Lomonosov MSU graduate with a bachelor degree in Applied Mathematics and Computer Science
+I am a recent Lomonosov MSU graduate with a bachelor's degree in Applied Mathematics and Computer Science
 
 📋 [CV RU](https://github.com/niwkvi/cv/blob/main/CV%20-%20Natalya%20Inichkina%20-%20RU.pdf) / [CV EN](https://github.com/niwkvi/cv/blob/main/CV%20-%20Natalya%20Inichkina%20-%20EN.pdf)
 
