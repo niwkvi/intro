@@ -4,6 +4,8 @@ I am a recent Lomonosov MSU graduate with a bachelor's degree in Applied Mathema
 
 📋 [CV RU](https://github.com/niwkvi/cv/blob/main/CV%20-%20Natalya%20Inichkina%20-%20RU.pdf) / [CV EN](https://github.com/niwkvi/cv/blob/main/CV%20-%20Natalya%20Inichkina%20-%20EN.pdf)
 
+📜 [Certificates](https://github.com/niwkvi/cv)
+
 ✉️ Available at:
 
 <p align="center">
