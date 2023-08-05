@@ -2,8 +2,6 @@
 
 I am an ML intern and a recent Lomonosov MSU graduate with a bachelor's degree in Applied Mathematics and Computer Science
 
-📜 [Certificates and CV](https://github.com/niwkvi/cv)
-
 ✉️ Available at:
 
 <p align="center">
