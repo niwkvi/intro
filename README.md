@@ -1,10 +1,8 @@
 # Hei og Velkommen 🖖
 
-I am a recent Lomonosov MSU graduate with a bachelor's degree in Applied Mathematics and Computer Science
+I am an ML intern and a recent Lomonosov MSU graduate with a bachelor's degree in Applied Mathematics and Computer Science
 
-📜 [Certificates](https://github.com/niwkvi/cv)
-
-📜 [Резюме / CV](https://github.com/niwkvi/certificates/blob/main/CV%20-%20Natalya%20Inichkina%20-%20RU.pdf)
+📜 [Certificates and CV](https://github.com/niwkvi/cv)
 
 ✉️ Available at:
 
@@ -29,6 +27,8 @@ I am a recent Lomonosov MSU graduate with a bachelor's degree in Applied Mathema
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   
 </p>
