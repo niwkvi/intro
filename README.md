@@ -2,7 +2,7 @@
 
 I am an ML intern and a recent Lomonosov MSU graduate with a bachelor's degree in Applied Mathematics and Computer Science.
 
-✉️ Available at:
+💌 Available at:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/natalya-inichkina/" target="_blank">
