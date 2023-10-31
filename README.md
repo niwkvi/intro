@@ -1,4 +1,4 @@
 # Hei og Velkommen 🖖
 
 - Machine Learning Engineer at AX Technology
-- Lomonosov MSU graduate with a bachelor's degree in Applied Mathematics and Computer Science
+- Bachelor of Science Degree in Applied Mathematics and Computer Science from Lomonosov MSU
