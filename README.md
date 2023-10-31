@@ -1,6 +1,6 @@
 # Hei og Velkommen 🖖
 
-I am an ML intern and a recent Lomonosov MSU graduate with a bachelor's degree in Applied Mathematics and Computer Science.
+I am an machine learning engineer and a Lomonosov MSU graduate with a bachelor's degree in Applied Mathematics and Computer Science.
 
 💌 Available at:
 
