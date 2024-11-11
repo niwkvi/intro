@@ -1,4 +1,4 @@
 # Hei og Velkommen 🖖
 
-- Machine Learning Engineer at AX Technology
+- Data Scientist at Click
 - Bachelor of Science in Applied Mathematics and Computer Science from Lomonosov MSU
